@@ -1,4 +1,4 @@
-# Edda.Email
+# Example README.MD
 
 One Paragraph of project description goes here
 
